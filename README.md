@@ -1,0 +1,45 @@
+# Cokelat – Luka Lama
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.58] Ku rentangkan hati
+[00:24.80] Ku balut luka lama saat kau pergi
+[00:32.30] Ku tegarkan diri
+[00:35.56] Walau bayangmu hadir di setiap mimpi
+[00:53.56] 
+[00:43.03] Oh, haruskah ku benamkan diri meratapi
+[00:51.86] Tenggelam sesali yang terjadi
+[00:57.02] Tersiksa bersama hampa asa, oh
+[01:12.02] 
+[01:04.65] Kini ku hanya ingin lupakan semua
+[01:13.15] Mengenangmu menyesakkan jiwa
+[01:20.68] Kan ku hapus air mata
+[01:23.37] Hingga ku dapat sembuhkan luka
+[01:38.37] 
+[01:36.86] Ku coba hadapi
+[01:40.17] Walau pahit terasa di relung hati
+[01:47.16] Harus ku lewati
+[01:50.62] Seakan semua tiada pernah terjadi
+[02:07.12] 
+[01:58.01] Oh, haruskah ku benamkan diri meratapi
+[02:06.85] Tenggelam sesali yang terjadi
+[02:12.04] Tersiksa bersama hampa asa, oh
+[02:27.04] 
+[02:19.88] Kini ku hanya ingin lupakan semua
+[02:28.35] Mengenangmu menyesakkan jiwa
+[02:35.69] Kan ku hapus air mata
+[02:38.42] Hingga ku dapat sembuhkan luka
+[02:53.42] 
+[02:44.18] Semoga kelak lupakan semua
+[02:49.53] Mengenangmu menyesakkan jiwa
+[02:56.98] Kan ku hapus air mata
+[02:59.95] Hingga ku dapat sembuhkan luka
+[03:14.95] 
+[03:13.43] Ku rentangkan hati
+[03:16.37] Ku balut luka lama saat kau pergi
+[03:24.07] Ku tegarkan diri (kini)
+[03:27.15] Walau bayangmu hadir di setiap mimpi (ku hanya ingin lupakan semua)
+[03:34.96] Ku rentangkan hati (kini)
+[03:37.96] Walau bayangmu hadir di setiap mimpi (ku hanya ingin lupakan semua)
+```
