@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Luka Lama",
+  "base_artist": "Cokelat",
+  "createdAt": "2026-03-01T15:56:19.210203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Luka Lama",
+      "artist": "Cokelat",
+      "has_synced": true,
+      "path": "select/01_Luka_Lama_Cokelat.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Luka Lama Terguris Kembali",
+      "artist": "Alleycats",
+      "has_synced": false,
+      "path": "select/02_Luka_Lama_Terguris_Kembali_Alleycats.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Luka Lama",
+      "artist": "Cokelat",
+      "has_synced": true,
+      "path": "select/03_Luka_Lama_Cokelat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Luka Lama",
+      "artist": "Nada Latuharhary",
+      "has_synced": true,
+      "path": "select/04_Luka_Lama_Nada_Latuharhary.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Luka Lama Berguris Kembali",
+      "artist": "ALLEYCAT",
+      "has_synced": false,
+      "path": "select/05_Luka_Lama_Berguris_Kembali_ALLEYCAT.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Luka Lama",
+      "artist": "Cokelat - lagubebass.blogspot.com",
+      "has_synced": true,
+      "path": "select/06_Luka_Lama_Cokelat_-_lagubebass.blogspot.com.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Luka Lama",
+      "artist": "Cokelat",
+      "has_synced": true,
+      "path": "select/07_Luka_Lama_Cokelat.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Luka Lama",
+      "artist": "Cokelat",
+      "has_synced": false,
+      "path": "select/pl_01_Luka_Lama_Cokelat.txt"
+    }
+  ]
+}
